@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.aqualunem.studio
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Aqualunem/Status/refs/heads/master/icon/Aqualunem-StatusIcon.png
   name: 💙 Aqualunem Status
   introTitle: "**Status**"
   introMessage: Bienvenido a mi página de status - Aqui puedes ver la disponibilidad de mis servicios 
