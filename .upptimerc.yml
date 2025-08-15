@@ -10,6 +10,8 @@ sites:
     url: https://status.aqualunem.studio
   - name: Docs
     url: https://docs.aqualunem.studio/soon
+  - name: CDN
+    url: https://stuff.aqualunem.studio/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
