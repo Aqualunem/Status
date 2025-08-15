@@ -9,7 +9,7 @@ sites:
   - name: Status
     url: https://status.aqualunem.studio
   - name: Docs
-    url: https://docs.aqualunem.studio/soon
+    url: https://docs.aqualunem.studio/index/
   - name: CDN
     url: https://stuff.aqualunem.studio/
 
