@@ -76,17 +76,17 @@
     "url": "https://stuff.aqualunem.studio/",
     "icon": "https://icons.duckduckgo.com/ip3/stuff.aqualunem.studio.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 958,
-    "timeWeek": 954,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "time": 953,
+    "timeDay": 1092,
+    "timeWeek": 988,
+    "timeMonth": 953,
+    "timeYear": 953,
     "dailyMinutesDown": {}
   }
 ]
