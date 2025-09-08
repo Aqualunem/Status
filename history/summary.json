@@ -4,7 +4,7 @@
     "url": "https://aqualunem.studio",
     "icon": "https://icons.duckduckgo.com/ip3/aqualunem.studio.ico",
     "slug": "aqualunem-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 314,
     "timeDay": 185,
     "timeWeek": 263,
-    "timeMonth": 314,
+    "timeMonth": 315,
     "timeYear": 314,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 817,
     "timeDay": 94,
     "timeWeek": 152,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 815,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 125,
     "timeDay": 367,
     "timeWeek": 335,
-    "timeMonth": 398,
+    "timeMonth": 402,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 152,
     "timeDay": 280,
     "timeWeek": 333,
-    "timeMonth": 484,
+    "timeMonth": 475,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
